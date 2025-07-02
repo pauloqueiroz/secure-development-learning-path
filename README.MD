@@ -8,14 +8,7 @@ This repository aims to compile a collection of curated content and public repos
 
 ### 1. [Linux Hardening and Security](./linux-hardening/)
 
-A repository with resources, guides, and tools focused on securing and hardening Linux environments. Topics include:
-
-- User and permission management
-- SSH hardening
-- Kernel parameter tuning (sysctl)
-- Auditing and monitoring tools
-- Firewall and network-level protections
-- SELinux and AppArmor basics
+A repository with resources, guides, and tools focused on securing and hardening Linux environments:
 
 ---
 https://github.com/PacktPublishing/Linux-Security-and-Hardening-The-Practical-Security-Guide/tree/master
